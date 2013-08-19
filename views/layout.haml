@@ -1,0 +1,35 @@
+!!!
+%html
+  %head
+    %link(rel="stylesheet" href="http://yui.yahooapis.com/2.8.0r4/build/reset/reset-min.css")  
+    %link(rel="stylesheet" href="css/stylesz.css") 
+    %title Mashrrr
+    %script{:type => "text/javascript", :src  => "js/storyjs-embed.js"}
+    %script{:type => "text/javascript", :src => "http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
+    :javascript
+      $(document).ready(function() {
+        createStoryJS({
+          type:       'timeline',
+          width:      '1000',
+          height:     '500',
+          source:     'timedata.json',
+          embed_id:   'sb-timeline'
+        });
+      });
+  %body
+    #wrapper
+      #header
+        %h1 MashrrrrUp
+      #nav  
+        %ol  
+          %a(href="/")  
+            %li Home  
+          %a(href="about")  
+            %li About 
+
+      #content
+        =yield
+
+      #footer
+        %p
+          smelly footer

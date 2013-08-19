@@ -1,0 +1,143 @@
+{
+    "timeline":
+						    {
+						        "headline":"It's Da Mainline Masherrring Massss-shup!",
+						        "type":"default",
+						        "text":"<p>Lastfm ~-> OpenAura Masherrrryzzz </p>",
+						        "asset": {
+						            "media":"http://highpointlowlife.com/images/slimeball_HPLL.jpg",
+						            "credit":"Thor Sideburns",
+						            "caption":"It's Da Mashup, mofo!"
+						        },
+						        "date": [
+						    {
+						        "startDate": "2005,4,24",
+						        "endDate": "2005,5,1",
+						        "headline": "Bovaflux",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://sphotos-a.ak.fbcdn.net/hphotos-ak-ash3/5370_102727223373_1797995_n.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,5,1",
+						        "endDate": "2005,5,8",
+						        "headline": "OCS",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://userserve-ak.last.fm/serve/_/105882/OCS.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,5,8",
+						        "endDate": "2005,5,15",
+						        "headline": "Like A Stuntman",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://userserve-ak.last.fm/serve/252/156192.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,5,15",
+						        "endDate": "2005,5,22",
+						        "headline": "Like A Stuntman",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://userserve-ak.last.fm/serve/252/156192.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,5,22",
+						        "endDate": "2005,5,29",
+						        "headline": "Beulah",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://userserve-ak.last.fm/serve/_/260639/Beulah.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,5,29",
+						        "endDate": "2005,6,5",
+						        "headline": "The Jesus and Mary Chain",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://pbs.twimg.com/media/AYhIf44CQAEUUyc.png",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,6,5",
+						        "endDate": "2005,6,12",
+						        "headline": "The Lucksmiths",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://upload.wikimedia.org/wikipedia/commons/1/19/Louis_Richter_09-28-07.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,6,19",
+						        "endDate": "2005,6,26",
+						        "headline": "Bovaflux",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://sphotos-a.ak.fbcdn.net/hphotos-ak-ash3/5370_102727223373_1797995_n.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    },
+						    {
+						        "startDate": "2005,6,26",
+						        "endDate": "2005,7,3",
+						        "headline": "The Lucksmiths",
+						        "text": "Lastfm, top artist of w/b 2013-06-23 05:00:00 -0700",
+						        "tag": "",
+						        "asset": {
+						            "media": "http://upload.wikimedia.org/wikipedia/commons/1/19/Louis_Richter_09-28-07.jpg",
+						            "caption": "",
+						            "thumbnail": "",
+						            "credit": ""
+						        }
+						    }
+ 
+        ],
+        "era": [
+            {
+                "startDate":"2011,12,10",
+                "endDate":"2011,12,11",
+                "headline":"ERA Headline Goes Here",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "tag":"This is DA BOLD NEW ERA"
+            }
+
+        ]
+    }
+}
